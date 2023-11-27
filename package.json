@@ -1,0 +1,19 @@
+{
+  "name": "de.lumpn.unity-persistence",
+  "version": "1.0.0",
+  "displayName": "Persistence",
+  "description": "Uniformly save and load user data in Unity across all platforms.",
+  "keywords": [
+    "lumpn",
+    "application",
+    "persistentDataPath",
+    "persistence",
+    "playerPrefs",
+    "save",
+    "load"
+  ],
+  "author": {
+    "name": "Jonas Boetel",
+    "url": "https://github.com/lumpn"
+  }
+}

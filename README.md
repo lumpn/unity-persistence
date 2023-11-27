@@ -1,2 +1,2 @@
 # unity-persistence
-Platform independent methods for saving and loading user data in Unity.
+Uniformly save and load user data in Unity across all platforms.
