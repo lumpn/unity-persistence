@@ -1,7 +1,7 @@
 {
   "name": "de.lumpn.unity-persistence",
   "version": "1.0.0",
-  "displayName": "Persistence",
+  "displayName": "Lumpn Persistence",
   "description": "Uniformly save and load user data in Unity across all platforms.",
   "keywords": [
     "lumpn",

@@ -2,10 +2,11 @@
     "name": "Lumpn.Persistence",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [
-        "Editor"
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor",
+        "WebGL"
     ],
-    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
